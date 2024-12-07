@@ -1,0 +1,4 @@
+streamlit
+swarm
+pdfplumber
+ollama

@@ -1,0 +1,78 @@
+[
+    {
+      "title": "Data Scientist",
+      "description": "Analyze data to extract valuable insights, build predictive models using machine learning, and perform statistical analysis. Experience with Python, SQL, and machine learning frameworks like TensorFlow or PyTorch is required.",
+      "required_skills": ["Python", "SQL", "Machine Learning", "TensorFlow", "PyTorch", "Statistics"]
+    },
+    {
+      "title": "Software Engineer",
+      "description": "Design and develop software applications, optimize performance, and write clean, maintainable code. Expertise in Java, C++, and cloud technologies (AWS, GCP) is a plus.",
+      "required_skills": ["Java", "C++", "AWS", "GCP", "Git", "Algorithms"]
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "description": "Build machine learning systems and algorithms, work on large datasets, and improve models with data-driven insights. Knowledge of deep learning techniques, NLP, and experience with TensorFlow or PyTorch is essential.",
+      "required_skills": ["Python", "TensorFlow", "PyTorch", "Deep Learning", "NLP", "MLOps"]
+    },
+    {
+      "title": "Product Manager",
+      "description": "Manage the product lifecycle, collaborate with engineering, design, and marketing teams, and define the product roadmap. Prior experience in product development and a strong understanding of user needs is required.",
+      "required_skills": ["Product Development", "Agile", "User Research", "Strategy", "Communication"]
+    },
+    {
+      "title": "Marketing Analyst",
+      "description": "Analyze market trends, customer behavior, and competitive landscape to help shape marketing strategies. Proficiency in tools like Google Analytics, Excel, and data visualization software is a must.",
+      "required_skills": ["Google Analytics", "Excel", "Data Visualization", "Market Research", "SQL"]
+    },
+    {
+      "title": "Full Stack Developer",
+      "description": "Develop both front-end and back-end components of web applications. Strong knowledge of JavaScript, HTML/CSS, and experience with frameworks like React or Angular and Node.js is required.",
+      "required_skills": ["JavaScript", "HTML", "CSS", "React", "Node.js", "MongoDB"]
+    },
+    {
+      "title": "DevOps Engineer",
+      "description": "Build and maintain infrastructure, automate deployments, and optimize the continuous integration/continuous delivery (CI/CD) pipeline. Experience with Docker, Kubernetes, and cloud services (AWS, Azure) is required.",
+      "required_skills": ["Docker", "Kubernetes", "AWS", "Azure", "CI/CD", "Linux"]
+    },
+    {
+      "title": "UX/UI Designer",
+      "description": "Create visually appealing and user-friendly designs, work closely with product teams to define design specifications, and iterate on designs based on user feedback. Proficiency in tools like Sketch, Figma, and Adobe XD is essential.",
+      "required_skills": ["Figma", "Adobe XD", "UI Design", "UX Research", "Prototyping"]
+    },
+    {
+      "title": "Cybersecurity Analyst",
+      "description": "Monitor security threats, assess vulnerabilities, and implement solutions to secure systems and networks. Knowledge of security protocols, firewalls, encryption, and compliance frameworks like ISO 27001 is important.",
+      "required_skills": ["Network Security", "Encryption", "Firewalls", "ISO 27001", "Penetration Testing"]
+    },
+    {
+      "title": "Cloud Solutions Architect",
+      "description": "Design cloud infrastructure and services, ensuring they meet business requirements. Strong knowledge of cloud platforms (AWS, Azure, GCP), infrastructure-as-code tools, and cloud security best practices is necessary.",
+      "required_skills": ["AWS", "Azure", "GCP", "Terraform", "Cloud Security", "Microservices"]
+    },
+    {
+      "title": "Business Intelligence Analyst",
+      "description": "Develop insights from data, create dashboards, and present findings to stakeholders. Proficiency in SQL, Excel, Tableau, Power BI, or similar BI tools is essential.",
+      "required_skills": ["SQL", "Excel", "Tableau", "Power BI", "Data Analysis"]
+    },
+    {
+      "title": "Sales Engineer",
+      "description": "Support the sales team by providing technical expertise, demonstrate product capabilities to clients, and troubleshoot issues. Familiarity with cloud solutions, software products, and network architectures is needed.",
+      "required_skills": ["Technical Sales", "Cloud Solutions", "Networking", "Communication", "Problem Solving"]
+    },
+    {
+      "title": "Artificial Intelligence Researcher",
+      "description": "Conduct cutting-edge research in artificial intelligence, with a focus on areas such as reinforcement learning, computer vision, or natural language processing. Strong programming skills in Python and familiarity with research papers is required.",
+      "required_skills": ["Python", "Machine Learning", "Research", "Computer Vision", "NLP", "Deep Learning"]
+    },
+    {
+      "title": "HR Specialist",
+      "description": "Oversee recruitment processes, employee relations, and performance management. Experience with HR software, knowledge of labor laws, and strong interpersonal skills are necessary.",
+      "required_skills": ["HR Management", "Recruitment", "Labor Laws", "Communication", "HRIS"]
+    },
+    {
+      "title": "Operations Manager",
+      "description": "Oversee daily business operations, optimize processes, and ensure productivity. Strong leadership and project management skills, as well as experience in operations or supply chain management, are required.",
+      "required_skills": ["Project Management", "Leadership", "Process Optimization", "Supply Chain", "Business Operations"]
+    }
+]
+  
